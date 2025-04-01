@@ -1,5 +1,14 @@
-## Hii, I'm Haniel Maia 👋 
+# Hii, I'm Haniel Maia 👋 
 ## A computer networks student at IFPB. At the same time, I study Front-End and other languages ​​on my own.
+### You can find me at
+<div>
+  <a href="https://github.com/hanielmaia">
+  <a href="https://instagram.com/haniel_maia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:hanielrosadomaia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/haniel-maia-b271662a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
 ![Haniel GitHub stats](https://github-readme-stats.vercel.app/api?username=hanielmaia&show_icons=true&theme=synthwave) 
 <!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanielmaia&layout=compact&theme=synthwave)-->
 <div style="display: inline_block"><br>
@@ -11,13 +20,6 @@
   
   ##
  
-<div>
-  <a href="https://github.com/hanielmaia">
-  <a href="https://instagram.com/haniel_maia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:hanielrosadomaia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/haniel-maia-b271662a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanielmaia/hanielmaia/output/github-contribution-grid-snake-dark.svg">
