@@ -1,4 +1,6 @@
-## Hi, I'm Haniel Maia, a computer networks student at IFPB. At the same time, I study Front-End and other languages ​​on my own.
+## Hii, I'm Haniel Maia 👋 
+## A computer networks student at IFPB. At the same time, I study Front-End and other languages ​​on my own.
+![Haniel GitHub stats](https://github-readme-stats.vercel.app/api?username=hanielmaia&show_icons=true&theme=synthwave) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
