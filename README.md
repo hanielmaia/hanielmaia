@@ -1,5 +1,5 @@
 # Hii, I'm Haniel Maia 👋 
-## A computer networks student at IFPB. At the same time, I study Front-End and other languages ​​on my own.
+## Computer networks student. At the same time, I study Front-End and other languages ​​on my own.
 ### You can find me at ⬇︎
 <div>
   <a href="https://github.com/hanielmaia">
