@@ -1,5 +1,5 @@
-# Hii, I'm Haniel Maia 👋 
-## Computer networks student. At the same time, I study Front-End and other languages ​​on my own.
+# Hi, I'm Haniel Maia 👋 
+## I'm a computer networking student. I also study other languages ​​and technologies on my own.
 ### You can find me at ⬇︎
 <div>
   <a href="https://github.com/hanielmaia">
