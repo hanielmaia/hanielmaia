@@ -1,5 +1,5 @@
-# Hi, I'm Haniel Maia 👋 
-## I'm a computer networking student. I also study other languages ​​and technologies on my own.
+# Oi, meu nome é Haniel Maia👋 
+## Sou estudante de Redes de Computadores.
 ### You can find me at ⬇︎
 <div>
   <a href="https://github.com/hanielmaia">
