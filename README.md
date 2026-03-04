@@ -11,7 +11,7 @@
 
 |  |  |
 |-------------|--------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanielmaia&show_icons=true&theme=synthwave) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanielmaia&layout=compact&theme=synthwave) |
+| 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
