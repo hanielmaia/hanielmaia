@@ -1,5 +1,3 @@
-# Oi, meu nome é Haniel Maia👋 
-## Sou estudante de Redes de Computadores.
 ### Você pode me encontrar aqui⬇︎
 <div>
   <a href="https://github.com/hanielmaia">
