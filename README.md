@@ -1,10 +1,6 @@
 <h1> Olá! Meu nome é Haniel Maia. </h1>
 
-Sou estudante de redes de computadores focado na área de DevOps e Cloud Computing. Atualmente estou estudando e me especializando em práticas modernas de infraestrutura, automação e cultura
-DevOps, buscando construir soluções escaláveis, confiáveis e eficientes.
-Tenho experiência prática e estudos com tecnologias como Docker, Kubernetes, Linux, Terraform e AWS, além de conhecimentos em JavaScript, HTML, CSS e Python. Utilizo essas ferramentas para desenvolver ambientes automatizados, containerizados e preparados para aplicações modernas.
-Atualmente estou aprofundando meus conhecimentos em cloud computing e me preparando para obter certificações da AWS, com o objetivo de fortalecer minha carreira na área de DevOps e infraestrutura em nuvem.
-Estou sempre aprendendo, construindo projetos e explorando novas tecnologias que envolvem automação, conteiners, infraestrutura como código e cloud.
+Sou estudante de redes de computadores com foco em DevOps e Cloud Computing. Aprofundando meus conhecimentos com Docker, Kubernetes, Linux, Terraform , AWS e pipelines CI/CD, além de conhecimentos em JavaScript, HTML, CSS e Python. Atualmente, aprofundo meus estudos em cloud computing e busco certificações AWS para fortalecer minha carreira, desenvolvendo soluções escaláveis e automatizadas em ambientes modernos.
 <div>
   <a href="https://github.com/hanielmaia">
 </div>
