@@ -4,7 +4,7 @@ Sou estudante de Redes de Computadores pelo IFPB, com foco em DevOps e Cloud Com
 <br>
 <table>
   <tr>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,python,js,html,css" />
   
   ##
  
