@@ -23,7 +23,7 @@ Construir projetos reais de infraestrutura, automação e cloud para evoluir pro
 ### Tecnologias
 <table>
   <tr>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,python,html,css" />
   
   ##
  
