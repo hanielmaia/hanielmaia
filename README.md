@@ -6,7 +6,7 @@ Atualmente estou aprofundando meus estudos em **AWS, Docker, Kubernetes, Terrafo
 
 Tenho meta em atuar como **Engenheiro DevOps/SRE**, criando soluções automatizadas, escaláveis e bem documentadas.
 
-### Atualmente estudando
+### Tecnologias
 
 - AWS
 - Docker e Kubernetes
@@ -14,7 +14,7 @@ Tenho meta em atuar como **Engenheiro DevOps/SRE**, criando soluções automatiz
 - Linux Administration
 - GitHub Actions e CI/CD
 - Observabilidade e monitoramento
-- Python para automação
+- Conhecimento básico em python
 
 ### Objetivo
 
