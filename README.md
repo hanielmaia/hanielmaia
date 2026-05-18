@@ -10,7 +10,7 @@ Tenho meta em atuar como **Engenheiro DevOps/SRE**, criando soluções automatiz
 
 - AWS
 - Docker e Kubernetes
-- Terraform e Ansible
+- Terraform
 - Linux Administration
 - GitHub Actions e CI/CD
 - Observabilidade e monitoramento
@@ -23,7 +23,7 @@ Construir projetos reais de infraestrutura, automação e cloud para evoluir pro
 ### Tecnologias
 <table>
   <tr>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,python,html,css" />
   
   ##
  
