@@ -4,7 +4,7 @@ Sou estudante de **Redes de Computadores no IFPB**, com foco em **DevOps, Cloud 
 
 Atualmente estou aprofundando meus estudos em **AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, automação de infraestrutura e protocolos de redes**, desenvolvendo projetos práticos para consolidar conhecimentos em deploy, provisionamento e gerenciamento de ambientes em nuvem.
 
-Tenho meta em atuar como **Engenheiro DevOps/SRE**, criando soluções automatizadas, escaláveis e bem documentadas.
+Tenho meta em atuar como **Engenheiro DevOps/SRE**, criando soluções resilientes, seguras, automatizadas, escaláveis e bem documentadas.
 
 ### Tecnologias
 
