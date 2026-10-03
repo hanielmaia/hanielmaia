@@ -24,6 +24,10 @@ Construir projetos reais de infraestrutura, automação e cloud para evoluir pro
 <table>
   <tr>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,python,html,css" />
+
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/2005671f-753d-4320-b13e-45aacb2cc63c" />
+
+
   
   ##
  
