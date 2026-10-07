@@ -2,24 +2,24 @@
 
 Sou estudante de **Redes de Computadores no IFPB**, com foco em **DevOps, Cloud Computing e infraestrutura como código**.
 
-Atualmente estou aprofundando meus estudos em **AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, automação de infraestrutura e protocolos de redes**, desenvolvendo projetos práticos para consolidar conhecimentos em deploy, provisionamento e gerenciamento de ambientes em nuvem.
+Atualmente estou aprofundando meus estudos em AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, automação de infraestrutura e protocolos de redes, desenvolvendo projetos práticos para consolidar conhecimentos em deploy, provisionamento e gerenciamento de ambientes em nuvem.
+Tenho meta em atuar como Engenheiro DevOps/SRE, criando soluções resilientes, seguras, automatizadas, escaláveis e bem documentadas.
 
-Tenho meta em atuar como **Engenheiro DevOps/SRE**, criando soluções resilientes, seguras, automatizadas, escaláveis e bem documentadas.
+## 🛠️ Stack e Competências
 
-### Tecnologias
+| Área | Tecnologias |
+|------|-------------|
+| **Cloud** | AWS |
+| **Containers e Orquestração** | Docker, Kubernetes |
+| **Infraestrutura como Código** | Terraform |
+| **Sistemas Operacionais** | Administração Linux |
+| **CI/CD** | GitHub Actions, AWS CodePipeline |
+| **Observabilidade** | Grafana, CloudWatch, Zabbix |
+| **Redes** | Protocolos e fundamentos de redes |
+| **Linguagens** | Python (básico), Bash |
 
-- AWS
-- Docker e Kubernetes
-- Terraform
-- Linux Administration
-- GitHub Actions e CI/CD
-- Observabilidade e monitoramento
-- Conhecimento básico em python
-
-### Objetivo
-
-Construir projetos reais de infraestrutura, automação e cloud para evoluir profissionalmente na área de DevOps.
 <br>
+
 ### Tecnologias
 <table>
   <tr>
