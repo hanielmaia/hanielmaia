@@ -17,10 +17,7 @@ Tenho meta em atuar como Engenheiro DevOps/SRE, criando soluções resilientes, 
 | **Observabilidade** | Grafana, CloudWatch, Zabbix |
 | **Redes** | Protocolos e fundamentos de redes |
 | **Linguagens** | Python (básico), Bash |
-
 <br>
-
-### Tecnologias
 <table>
   <tr>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,python,html,css" />
