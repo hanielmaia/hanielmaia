@@ -22,7 +22,7 @@ Tenho meta em atuar como Engenheiro DevOps/SRE, criando soluções resilientes, 
   <tr>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,python,html,css" />
 
-<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/2005671f-753d-4320-b13e-45aacb2cc63c" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2005671f-753d-4320-b13e-45aacb2cc63c" />
 
 
   
